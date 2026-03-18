@@ -215,7 +215,7 @@ margin-top:10px;
 
 
 <div class="product">
-<img src="red Scarf.png" onclick="openImage(this.src)">
+<img src="Red scarf.png" onclick="openImage(this.src)">
 <h3>Winter Crochet Scarf with Bow</h3>
 <p class="price">₹499</p>
 </div>
