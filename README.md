@@ -316,6 +316,12 @@ margin-top:10px;
 <p class="price">₹499</p>
 </div>
 
+<div class="product">
+<img src="ladysweater.png" onclick="openImage(this.src)">
+<h3>Women's Top</h3>
+<p class="price">₹499</p>
+</div>
+
 </div>
 
 </div>
