@@ -317,10 +317,23 @@ margin-top:10px;
 </div>
 
 <div class="product">
-<img src="ladysweater.png" onclick="openImage(this.src)">
+<img src="baby-blanketS.png" onclick="openImage(this.src)">
+<h3>Baby Blanket - Small</h3>
+<p class="price">₹799</p>
+</div>
+
+<div class="product">
+<img src="baby-blanketL.png" onclick="openImage(this.src)">
+<h3>Baby Blanket - Large</h3>
+<p class="price">₹999</p>
+</div>
+
+<div class="product">
+<img src="lady-sweater.png" onclick="openImage(this.src)">
 <h3>Women's Top</h3>
 <p class="price">₹499</p>
 </div>
+
 
 </div>
 
